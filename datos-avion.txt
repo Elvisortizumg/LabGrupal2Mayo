@@ -1,0 +1,4 @@
+[1.Mexico] Estado: "Disponible".
+-[2.El Salvador] Estado: "Disponible".
+-[3.Miami] Estado: "No Disponible".
+-[4.Francia] Estado: "No Disponible".
